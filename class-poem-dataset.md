@@ -85,7 +85,7 @@
 | Macbeth, Act 1, Scene 2 | William Shakespeare | <https://www.poets.org/poetsorg/poem/macbeth-act-i-scene-ii-merciless-macdonwald> | 1623 |
 | Macbeth, Act 6, Scene 1 | William Shakespeare | <https://www.poets.org/poetsorg/poem/macbeth-act-iv-scene-i-round-about-cauldron-go> | 1623 |
 | Paradise Lost, Book 4, Lines 639-652 | John Milton | <https://www.poets.org/poetsorg/poem/paradise-lost-book-iv-lines-639–652> | 1667 |
-| Paradise Lost, Book 1, Lines 221-270 | John Milton | <>https://www.poets.org/poetsorg/poem/paradise-lost-book-i-lines-221-270> | 1667 |
+| Paradise Lost, Book 1, Lines 221-270 | John Milton | <https://www.poets.org/poetsorg/poem/paradise-lost-book-i-lines-221-270> | 1667 |
 |Paradise Lost, Book 4, [The Argument] | John Milton | <https://www.poets.org/poetsorg/poem/paradise-lost-book-iv-argument> | 1667 |
 | Paradise Lost, Book 4, Lines 801-866 | John Milton | <https://www.poets.org/poetsorg/poem/paradise-lost-book-vi-lines-801-866> | 1667 |
 | The Star-Spangled Banner | Francis Scott Key | <https://www.poets.org/poetsorg/poem/star-spangled-banner> | 1814 |
